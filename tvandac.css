@@ -1,0 +1,54 @@
+#header{
+    background-color: cornflowerblue;
+    color:aliceblue;
+}
+
+#status{
+    background-color: crimson;
+    color: white;
+    width:fit-content;
+    font-size:large;
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding-top: 15px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+
+#detected_answer{
+    background-color: rgb(36, 193, 60);
+    color: white;
+    width: 180px;
+    height: 30px;
+    font-size:x-large;
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 2px;
+    border-radius: 8px;
+}
+
+canvas{
+    margin-top: 110px;
+    border-radius: 19px;
+}
+
+body{
+    background-image: url("https://i.postimg.cc/kGLN7cFp/537831-peace-sign-blurred-nature-deer.jpg");
+    background-repeat: 0;
+    background-size: cover;
+}
+
+#back_button{
+    float: right;
+    margin-top: -150;
+    margin-right: 10px;
+    border-radius: 10px;
+    border-color: white;
+    font-weight: bolder;
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
+}
+
+

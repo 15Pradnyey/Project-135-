@@ -1,0 +1,21 @@
+#subnames{
+    background-color: White;
+    color: black;
+    width: 600px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    font-weight:bolder;
+    font-size: x-large;
+    border-width: 3px;
+}
+
+#header{
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+    background-color: black;
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1560015534-cee980ba7e13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29sb3JmdWwlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+}
